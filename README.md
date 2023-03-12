@@ -1,4 +1,4 @@
-# :computer: # Tutoriel-Installation-Pterodactyl
+# :computer: Tutoriel-Installation-Pterodactyl
 
 # Installation du panel & Wings
 
