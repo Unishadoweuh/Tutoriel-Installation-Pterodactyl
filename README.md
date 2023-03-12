@@ -25,6 +25,7 @@ Générateur de mot de passe: https://www.dashlane.com/personal-password-manager
 
 `php artisan p:user:make`
 
+# Informations:
 
 Lien de la vidéo explicative: **https://youtu.be/L_0-v4t4tPw**
 
