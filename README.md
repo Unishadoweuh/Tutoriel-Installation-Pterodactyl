@@ -19,7 +19,7 @@
 `grant all privileges on *.* to admin@'%' with grant option;`
 `flush privileges;`
 
-Générateur de mot de passe: https://www.dashlane.com/personal-password-manager/password-generator
+Générateur de mot de passe: **https://www.dashlane.com/personal-password-manager/password-generator**
 
 # Création d'un compte pterodactyl par SSH:
 
@@ -27,6 +27,6 @@ Générateur de mot de passe: https://www.dashlane.com/personal-password-manager
 
 # Informations:
 
-Lien de la vidéo explicative: **https://youtu.be/L_0-v4t4tPw**
+Lien de la vidéo explicative: **https://youtu.be/DuR_4YGXmRw**
 
-Pour plus d'informations direction: https://disord.gg/redstarthosting
+Pour plus d'informations direction: **https://disord.gg/redstarthosting**
