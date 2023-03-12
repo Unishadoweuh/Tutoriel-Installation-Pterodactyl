@@ -24,3 +24,8 @@ Générateur de mot de passe: https://www.dashlane.com/personal-password-manager
 # Création d'un compte pterodactyl par SSH:
 
 `php artisan p:user:make`
+
+
+Lien de la vidéo explicative: **https://youtu.be/L_0-v4t4tPw**
+
+Pour plus d'informations direction: https://disord.gg/redstarthosting
